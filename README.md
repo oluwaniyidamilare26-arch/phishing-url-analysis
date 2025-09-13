@@ -1,8 +1,7 @@
 # Phishing URL Analysis
 
 ## Overview
-This project analyzes a suspected phishing URL using a combination of technical tools and documents the escalation of an alert from a tier 1 soc analyst to a tier 2 soc analyst.  
-I produced two reports: one for executives and one for technical audiences.
+This project analyzes a suspected phishing URL using multiple technical tools and documents the escalation of an alert from a Tier 1 SOC analyst to a Tier 2 SOC analyst. Two reports were produced: one tailored for executives and another for technical audiences.
 
 ## Files
 - **Executive_Report.pdf** - A non-technical summary highlighting business risks and recommendations.  
